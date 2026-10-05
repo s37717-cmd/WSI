@@ -1,4 +1,4 @@
 Name: Hakan Öztürk
-Universty: PJTAK
+University: PJTAK
 Student ID:s37717
 Hello from the branch
